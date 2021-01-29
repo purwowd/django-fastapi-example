@@ -1,3 +1,9 @@
 Django
 fastapi
 uvicorn
+django-debug-toolbar
+email-validator
+flake8
+pydantic
+PyJWT
+python-decouple
